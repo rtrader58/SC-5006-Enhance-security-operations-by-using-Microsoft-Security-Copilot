@@ -1,6 +1,6 @@
 # Microsoft Learn Path vs PowerPoints
 
-# SC-5006 Enhance security operations by using Microsoft Security Copilot Collection - https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/
+### SC-5006 Enhance security operations by using Microsoft Security Copilot Collection - https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/
 
 Module 1:  Fundamentals of Generative AI - https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/ <br>
 Module 2:  Describe Microsoft Security Copilot - https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/ <br>
