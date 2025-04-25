@@ -1,8 +1,6 @@
 # SC-5006 Enhance security operations by using Microsoft Security Copilot - Additional links<br>
 
 Interface Technical Training - http://www.interfacett.com<br>
-Lab environment - https://interfacett.learnondemand.net<br>
-Github lab repository - https://github.com/MicrosoftLearning/SC-5006-Enhance-security-by-Microsoft-Security-Copilot<br>
 Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/<br>
 Azure Forums - https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform<br>
 Azure Tuesdays with Corey - https://learn.microsoft.com/en-us/shows/tuesdays-with-corey/<br>
