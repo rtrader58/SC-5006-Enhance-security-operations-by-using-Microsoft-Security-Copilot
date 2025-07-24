@@ -22,6 +22,7 @@ Explore the capabilities of Copilot in Microsoft Entra - https://learn.microsoft
 ## Additional Links
 
 Interface Technical Training - http://www.interfacett.com<br>
+Interface Instructor Office Hours - https://www.interfacett.com/about/office-hours/<br>
 Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/<br>
 Azure Forums - https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform<br>
 Azure Tuesdays with Corey - https://learn.microsoft.com/en-us/shows/tuesdays-with-corey/<br>
