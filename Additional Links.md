@@ -5,6 +5,7 @@
 ### Enhance security operations by using Microsoft Security Copilot - https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/?WT.mc_id=ilt_partner_webpage_wwl&ocid=506615#study-guide<br>
 
 Module 1: Introduction to generative AI concepts - https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/<br>
+Exercise - Explore a generative AI agent scenario - https://microsoftlearning.github.io/mslearn-ai-sims/Instructions/Labs/02-explore-ai-agent.html<br>
 
 Module 2: Describe Microsoft Security Copilot - https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/<br>
 
