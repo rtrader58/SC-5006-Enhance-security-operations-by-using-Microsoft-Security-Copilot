@@ -32,5 +32,6 @@ Microsoft Learning community Blog - https://techcommunity.microsoft.com/t5/micro
 Azure Documentation - https://learn.microsoft.com/en-us/azure/?product=popular<br>
 Microsoft Defender for Servers Overview - https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-servers-introduction#defender-for-servers-plans<br>
 Microsoft Defender for Servers Pricing - https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/<br>
+Security Copilot SCU Calculator - https://securitycopilot.microsoft.com/calculator <br>
 
 
