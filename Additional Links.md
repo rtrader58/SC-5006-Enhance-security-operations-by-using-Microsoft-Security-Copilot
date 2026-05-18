@@ -12,7 +12,7 @@ Explore the first run experience - https://learn.microsoft.com/en-us/training/mo
 Explore the standalone experience - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/3-explore-standalone-experience<br>
 Explore Security Copilot workspaces - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/3a-explore-workspaces<br>
 Configure the Microsoft Sentinel plugin - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/4-configure-plugin<br>
-Configure the Microsoft Sentinel plugin - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/5-enable-custom-plugin<br>
+Enable a custom plugin - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/5-enable-custom-plugin<br>
 Explore file uploads as a knowledge base - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/6-explore-knowledge-base-file-upload<br>
 Create a custom promptbook - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/7-create-custom-promptbook<br>
 Explore the capabilities of Copilot in Microsoft Defender XDR - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/8-explore-embedded-defender-xdr<br>
