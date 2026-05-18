@@ -3,7 +3,6 @@
 ## This repository is provided to enhance the course.
 ## Updated 3/24/2025.
 
-This repository is maintained by Mike Danseglio and Rick Trader.<br>
-Interface Technical Training.<br>
+This repository is maintained by Mike Danseglio and Rick Trader of Interface Technical Training.<br>
 
 If you find a link is not working, please submit an issue or a pull request and we will research and update appropriately.<br>
