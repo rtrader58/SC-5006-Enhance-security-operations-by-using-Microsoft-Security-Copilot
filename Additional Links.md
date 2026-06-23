@@ -6,18 +6,16 @@ Module 1: Introduction to generative AI concepts <br>
 Exercise - Explore a generative AI agent scenario - https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/7a-exercise <br>
 Exercise - Old Expense Chat Assistant - https://microsoftlearning.github.io/mslearn-ai-sims/Instructions/Labs/02-explore-ai-agent.html<br>
 
-Module 6: Experience Security Copilot through guided simulations - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/<br>
-
-Explore owner settings in Security Copilot - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/2-first-run-experience<br>
-Explore the standalone experience - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/3-explore-standalone-experience<br>
-Explore Security Copilot workspaces - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/3a-explore-workspaces<br>
-Configure the Microsoft Sentinel plugin - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/4-configure-plugin<br>
-Enable a custom plugin - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/5-enable-custom-plugin<br>
-Explore file uploads as a knowledge base - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/6-explore-knowledge-base-file-upload<br>
-Create a custom promptbook - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/7-create-custom-promptbook<br>
-Explore the capabilities of Copilot in Microsoft Defender XDR - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/8-explore-embedded-defender-xdr<br>
-Explore the capabilities of Copilot in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/9-explore-embedded-purview<br>
-Explore the capabilities of Copilot in Microsoft Entra - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/9a-explore-embedded-entra<br>
+Module 6: Experience Security Copilot through guided simulations - https://learn.microsoft.com/en-us/training/modules/security-copilot-interactive-guides/
+<br>
+Explore owner settings in Security Copilot -https://learn.microsoft.com/en-us/training/modules/security-copilot-interactive-guides/2-explore-owner-settings-security-copilot<br>
+Use prompts and promptbooks in Security Copilot - https://learn.microsoft.com/en-us/training/modules/security-copilot-interactive-guides/3-use-prompts-promptbooks-security-copilot<br>
+Create a custom promptbook in Security Copilot - https://learn.microsoft.com/en-us/training/modules/security-copilot-interactive-guides/4-create-custom-promptbook-security-copilot<br>
+Investigate data protection activity in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/security-copilot-interactive-guides/5-investigate-data-protection-activity-purview<br>
+Investigate insider risks and compliance in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/security-copilot-interactive-guides/6-investigate-insider-risks-compliance-purview<br>
+Investigate security incidents in Microsoft Defender XDR - https://learn.microsoft.com/en-us/training/modules/security-copilot-interactive-guides/7-investigate-security-incidents-defender-xdr<br>
+Explore and create an agent in Security Copilot - https://learn.microsoft.com/en-us/training/modules/security-copilot-interactive-guides/8-explore-create-agent-security-copilot<br>
+Explore the Conditional Access Optimization Agent - https://learn.microsoft.com/en-us/training/modules/security-copilot-interactive-guides/9-explore-conditional-access-agent<br>
 
 ------------------------------------------------------------------------------------------------------------
 
