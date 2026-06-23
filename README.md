@@ -1,7 +1,7 @@
 # SC-5006 Enhance security operations by using Microsoft Security Copilot
  
 ## This repository is provided to enhance the course.
-## Updated 3/24/2025.
+## Updated 5/15/2026.
 
 This repository is maintained by Mike Danseglio and Rick Trader of Interface Technical Training.<br>
 
