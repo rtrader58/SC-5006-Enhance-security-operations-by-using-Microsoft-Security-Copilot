@@ -6,9 +6,9 @@ Module 1: Introduction to generative AI concepts <br>
 Exercise - Explore a generative AI agent scenario - https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/7a-exercise <br>
 Exercise - Old Expense Chat Assistant - https://microsoftlearning.github.io/mslearn-ai-sims/Instructions/Labs/02-explore-ai-agent.html<br>
 
-Module 6: Explore use cases of Microsoft Security Copilot (Simulations) - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/<br>
+Module 6: Experience Security Copilot through guided simulations - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/<br>
 
-Explore the first run experience - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/2-first-run-experience<br>
+Explore owner settings in Security Copilot - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/2-first-run-experience<br>
 Explore the standalone experience - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/3-explore-standalone-experience<br>
 Explore Security Copilot workspaces - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/3a-explore-workspaces<br>
 Configure the Microsoft Sentinel plugin - https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/4-configure-plugin<br>
