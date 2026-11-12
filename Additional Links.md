@@ -22,7 +22,8 @@ Explore the Conditional Access Optimization Agent - https://learn.microsoft.com/
 ## Additional Links
 
 Interface Technical Training - http://www.interfacett.com<br>
-Interface Instructor Office Hours - https://www.interfacett.com/about/office-hours/<br>
+Interface Technical Training Facebook page - https://www.facebook.com/InterfaceTraining <br>
+Interface Technical Training LinkedIn Page - https://www.linkedin.com/company/interface-technical-training/posts/ <br>
 Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/<br>
 Azure Forums - https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform<br>
 Azure Tuesdays with Corey - https://learn.microsoft.com/en-us/shows/tuesdays-with-corey/<br>
